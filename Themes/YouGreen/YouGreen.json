@@ -38,7 +38,7 @@
         "EMBED_BACKGROUND": [ "#1B271C" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#213121" ],
         "HEADER_PRIMARY": [ "#fff" ],
-        "HEADER_SECONDARY": [ "#9CE19E" ],
+        "HEADER_SECONDARY": [ "#adf2ab" ],
         "INPUT_BACKGROUND": [ "#1B271C" ],
         "INTERACTIVE_ACTIVE": [ "#9CE19E" ],
         "INTERACTIVE_HOVER": [ "#9CE19E" ],
@@ -50,7 +50,7 @@
         "TEXT_LINK": [ "#74c7ec" ],
         "TEXT_NORMAL": [ "#DEFDDE" ],
         "TEXT_MUTED": [ "#9CE19E" ],
-        "TEXT_PRIMARY": [ "#DEFDDE" ],
+        "TEXT_PRIMARY": [ "#fff" ],
         "THREAD_CHANNEL_SPINE": [ "#9CE19E" ],
         "BG_BASE_PRIMARY": [ "#131914" ],
         "BG_BASE_SECONDARY": [ "#131914" ],
@@ -235,7 +235,7 @@
     "plus": {
        "version": "0",
        "iconpack": "MaterialTwoTone",
-       "mentionLineColor": "#9CE19E",
+       "mentionLineColor": "#74c7ec",
        "customOverlays": true,
        "icons":{
           "ic_radio_circle_checked": "#9CE19E",
@@ -245,7 +245,7 @@
           "ic_selection_checked_24px": "#9CE19E",
           "ic_star_filled": "#9CE19E",
           "img_guild_folder": "#9CE19E",
-          "StatusMobileOnline": "#9CE19E",
+          "StatusMobileOnline": "#74c7ec",
           "StatusOnline": "#74c7ec",
           "StatusIdle": "#fab387",
           "StatusDND": "#f38ba8",
@@ -266,7 +266,7 @@
 		  "search": "#9CE19E",
 		  "MoreHorizontalIcon": "#9CE19E",
 		  "UserCheckIcon": "#9CE19E",
-		  "ic_send": "#9CE19E"
+		  "ic_send": "#74c7ec"
             }
     },
     "spec": 2
