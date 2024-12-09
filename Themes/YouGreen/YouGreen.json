@@ -267,7 +267,8 @@
 		  "search": "#9CE19E",
 		  "MoreHorizontalIcon": "#9CE19E",
 		  "UserCheckIcon": "#9CE19E",
-		  "ic_send": "#74c7ec"
+		  "ic_send": "#74c7ec",
+          "unreadBadgeColor": "#74c7ec"
             }
     },
     "spec": 2
