@@ -43,7 +43,7 @@
         "INTERACTIVE_ACTIVE": [ "#fff" ],
         "INTERACTIVE_HOVER": [ "#9CE19E" ],
         "INTERACTIVE_MUTED": [ "#43624377" ],
-        "INTERACTIVE_NORMAL": [ "#ddd" ],
+        "INTERACTIVE_NORMAL": [ "#9CE19E", "#ddd" ],
 		"MENTION_BACKGROUND": [ "#1B271C" ],
 		"MENTION_FOREGROUND": [ "#76AB78" ],
 		"TEXT_DANGER": [ "#f88" ],
