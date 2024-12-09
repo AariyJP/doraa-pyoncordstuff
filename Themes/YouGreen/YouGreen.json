@@ -49,7 +49,7 @@
 		"TEXT_DANGER": [ "#f66" ],
         "TEXT_LINK": [ "#74c7ec" ],
         "TEXT_NORMAL": [ "#DEFDDE" ],
-        "TEXT_MUTED": [ "#f00", "#8bd08d" ],
+        "TEXT_MUTED": [ "#80848e", "#8bd08d" ],
         "TEXT_PRIMARY": [ "#eee" ],
         "TEXT_SECONDARY": [ "#80848e" ],
         "THREAD_CHANNEL_SPINE": [ "#9CE19E" ],
